@@ -1,0 +1,42 @@
+_repo: '---------_39633'
+_version: 0.1.0
+alternative_title: Menexenus
+contributor:
+  translator:
+    agent_name: Zervos, I. (Ioannes)
+    aliases:
+    - Zervos, Ioannes
+    - Zerbos, I. (Ioannes)
+    - Ζερβός, Ιωάννης
+    - Zervos, John
+    birthdate: 1875
+    deathdate: 1944
+    gutenberg_agent_id: '34203'
+    url: http://www.gutenberg.org/2009/agents/34203
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2012-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39633'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Speeches, addresses, etc., Greek'
+- !lcsh 'Funeral orations'
+title: Μενέξενоς
+url: http://www.gutenberg.org/ebooks/39633
